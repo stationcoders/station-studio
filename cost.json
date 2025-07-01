@@ -1,5 +1,5 @@
 {
-  "flux_kontext_pro.flux-kontext-pro": {
+  "flux_kontext_pro": {
     "cost_per_use": 0.5
   },
   "external.deepseek/deepseek-r1-0528": {
