@@ -1,5 +1,5 @@
 {
-  "write-naturally": {
+  "flux_kontext_pro.flux-kontext-pro": {
     "input_cost_per_token": 0.000003,
     "output_cost_per_token": 0.1
   },
