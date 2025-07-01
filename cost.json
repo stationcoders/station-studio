@@ -2,6 +2,9 @@
   "flux_kontext_pro": {
     "cost_per_use": 0.5
   },
+    "kontextpro-test": {
+    "cost_per_use": 0.3
+  },
   "flux_kontext_pro.flux-kontext-pro": {
     "cost_per_use": 0.25
   },
