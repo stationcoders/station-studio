@@ -2,6 +2,9 @@
   "flux_kontext_pro": {
     "cost_per_use": 0.5
   },
+  "flux_kontext_pro.flux-kontext-pro": {
+    "cost_per_use": 0.5
+  },
   "external.deepseek/deepseek-r1-0528": {
     "input_cost_per_token": 0.000003,
     "output_cost_per_token": 0.000015
@@ -11,3 +14,5 @@
     "output_cost_per_token": 0.000015
   }
 }
+
+
